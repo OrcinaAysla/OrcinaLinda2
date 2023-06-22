@@ -9,7 +9,7 @@ Arquivo (s):
 
 Descrição: Pagina Web onde é possível calcular a média de duas notas.
 
-Tecnologias Utilizadas: Google app script.
+Tecnologias Utilizadas: 
 
 <ul>
   <li>Google app scrip</li>
